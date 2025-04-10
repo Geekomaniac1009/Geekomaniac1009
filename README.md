@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> , I'm Sanchay Baranwal! Glad to see you here... </h1>
 <p align="center">
   
-   <img src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=Learning+Development;Open+Source+is+Cool;Exchanging+Ideas;Nice+to+meet+you+...">
+   <img src="https://readme-typing-svg.herokuapp.com/?color=blue&center=true&width=300&height=45&lines=Learning+Development;Open+Source+is+Cool;Exchanging+Ideas;Nice+to+meet+you+...">
 
 </p>
 
